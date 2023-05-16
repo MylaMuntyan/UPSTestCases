@@ -1,0 +1,70 @@
+#HomePage
+
+___Header Elements ___
+HomePage.link.Shipping = .//a[@id='mainNavDropdown1']
+HomePage.link.Tracking = .//a[@id='mainNavDropdown2']
+HomePage.link.BusinessSolutions = .//a[@id='mainNavDropdown3']
+HomePage.link.Support = .//a[@id='mainNavDropdown4']
+HomePage.link.AboutUPS = .//a[@class= 'OneLinkKeepLinks ups-link']
+HomePage.link.Location = .//a[@class= 'ups-link' and @href = 'https://www.ups.com/dropoff?loc=en_CA']
+HomePage.link.Languages = .//a[@class= 'ups-link dropdown-toggle' ]
+
+____End of Header Elements_____
+
+HomePage.link.Track = .//a[@class='nav-link active']
+HomePage.link.Quote = .//a[@class='nav-link ups-analytics ' and @href = 'https://wwwapps.ups.com/calTimeCost?loc=en_CA']
+HomePage.link.Ship = .//a[@class='nav-link ups-analytics ' and @href = 'https://www.ups.com/ship?loc=en_CA']
+HomePage.link.Billing = .//a[@class='nav-link ups-analytics ' and @href = '/ca/en/business-solutions/ups-billing.page']
+HomePage.input.TrackingNumber = .//input[@id = 'ups-track--qs']
+HomePage.button.Track = .//button[@id = 'stApp_widgetTrkNumBtn']
+HomePage.button.Help = .//span[@id = 'stApp_widgetHelpLbl']
+HomePage.button.Search = .//button[@id= 'ups-search-toggle' ]
+HomePage.span.LoginSignup = .//span[@class= 'icon ups-icon-user' ]
+HomePage.link.GetHelp = .//a[@class = 'widget-footer-link ups-link']
+HomePage.link.LogIn = .//*[@data-utg-link-name='Login']
+searchPage.Input.Search = .//input[@id = 'ups-mainNav-search']
+__________________________________________________________________________________________________________________________________
+#FindLocationsPage
+
+FindLocationsPage.input.Search = .//input[@id ='txtQuery']
+FindLocationsPage.input.Find = .//input[@type='submit']
+FindLocationsPage.input.FindResultOptions =.//*[text() = 'Moncton, Westmorland, NB']
+FindLocationsPage.input.FindResultStores =.//*[@class = 'mappedResultList']
+
+
+
+_____________________________________________________________________________________________________________________________________
+#LogInPage
+
+loginPage.input.UserName = .//input[@name ='userID']
+loginPage.input.Password = .//input[@name ='password']
+loginPage.button.LogIn = .//button[@id='submitBtn']
+
+____________________________________________________________________________________________________________________________________
+#HomePageLoggedIn
+HomePageLoggedIn.button.MyProfile = .//*[@id='dropdownMenuButton']
+
+______________________________________
+
+#searchPage
+
+searchPage.Input.Search = .//input[@id = 'ups-mainNav-search']
+searchPage.button.Search = .//button[@class= 'ups-cta ups-cta-primary search-submit-btn']
+sEARCHpAGE.link.File_a_Claim = .//a[@class = 'ups-link ups-analytics ups-results_individual' and @data-utg-link-name = 'search:File a Claim | UPS - Canada']
+
+__________________________________________________________________________________________________________________________________________
+
+#getHelpPage
+
+getHelpPage.link.logInToChange = .//a[@href= 'https://www.ups.com/upsmychoice?loc=en_CA' and @class = 'ups-cta ups-cta-primary ups-analytics']
+getHelpPage.link.GetShippingHelp = .//*[@title = 'Get Shipping Help']
+
+_______________________________________________________________________________________________--
+
+#GetShippingHelpPage
+getShippingHelpPage.link.VisitTrackingSolutions = .//*[@title = 'Visit Tracking Solutions']
+
+
+
+
+

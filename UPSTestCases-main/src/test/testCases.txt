@@ -1,0 +1,106 @@
+#1 Home Page Information
+
+STR:
+1. Launch UPS Home Page https://www.ups.com/ca/en/Home.page
+
+EX:
+The following links/ buttons  should be presented in the Home Page
+1. Shipping
+2. Tracking
+3. Business Solution
+4. Support
+5. Track
+6. Quote
+7. Ship
+8. Billing
+9. Tracking Number input
+10. Track button
+11. Help
+12. About UPS
+13. Locations
+14. Language
+15. Search Button
+16. Login / sign up
+
+____________________________________________________________________________________________
+
+#2 Location Page
+
+Summary: Users should be able to access Location Page
+
+STR:
+1. Launch UPS Home Page https://www.ups.com/ca/en/Home.page
+2. Click on Locations button
+
+EX:
+1. Track is not available
+3. Quote is not available
+
+STR:
+3. Enter 'Moncton Inti input Near
+4.Hit 'Find'
+5.Click on 'Moncton, Westmorland, NB'
+
+EX:
+List of locations disaplyed
+__________________________________________________________________________________________________
+
+#3 Access Denied Login error.
+Summary:
+Whenever someone is trying to Login using 3rd party Automated software, the Access should be denied
+
+STR:
+1. Launch UPS Home Page https://www.ups.com/ca/en/Home.page
+2. Click on Login / sign button
+EX_1: Log In Page displayed
+1. Email or Username input is available
+2. Password input is available
+3. Log In button is available
+4. Create a UPS Username is available
+
+STR:
+3. Enter Valid email (liudmylamuntyan@gmail.com)
+
+4. Enter valid password (MylaPassword1!)
+5. hit Login
+EX_2
+1. Access Denied message pops up
+
+
+_____________________________________________________________________________________________________________________________________________
+
+#4 Search function
+
+Summary:
+A User should be able to search from a Home Page
+
+STR:
+1. Launch UPS Home Page https://www.ups.com/ca/en/Home.page
+2. Click on magnifying glass image
+3. Type: 'claim'
+4. Click on Search
+EX_1:
+1 Quote is not available
+2. 'File a Claim | UPS - Canada' is available
+
+___________________________________________________________________________________________________________-
+
+#5 Get Shipping help  Page
+Summary:
+A User should be able to access Get shipping Help Page from Home Page
+
+STR:
+1. Launch UPS Home Page https://www.ups.com/ca/en/Home.page
+2. Click on Get Help link
+
+EX:
+1. 'Log in to change' button is available
+
+4. Get Shipping Help is available
+
+STR:
+3. Click on Get Shipping Help
+
+EX: Visit Tracking Solutions link Should be available
+
+

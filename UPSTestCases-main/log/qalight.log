@@ -1,0 +1,577 @@
+2023-26-02 21:21:30   INFO [TestCases.TC1_HomePageInfo] : Browser was closed
+2023-04-03 12:20:21   INFO [TestCases.TC1_HomePageInfo] : Browser was closed
+2023-04-03 13:59:47   INFO [TestCases.TC1_HomePageInfo] : Browser was closed
+2023-04-03 14:00:36   INFO [TestCases.TC1_HomePageInfo] : Browser was closed
+2023-04-03 14:02:16   INFO [TestCases.TC1_HomePageInfo] : Browser was closed
+2023-04-03 14:04:21   INFO [TestCases.TC1_HomePageInfo] : Browser was closed
+2023-04-03 14:07:20   INFO [TestCases.TC1_HomePageInfo] : Browser was closed
+2023-04-03 14:08:57   INFO [TestCases.TC1_HomePageInfo] : Browser was closed
+2023-04-03 14:10:35   INFO [TestCases.TC1_HomePageInfo] : Browser was closed
+2023-04-03 14:10:56   INFO [TestCases.TC1_HomePageInfo] : Browser was closed
+2023-04-03 14:14:54   INFO [TestCases.TC1_HomePageInfo] : Browser was closed
+2023-04-03 14:17:30   INFO [TestCases.TC1_HomePageInfo] : Browser was closed
+2023-04-03 14:18:20   INFO [TestCases.TC1_HomePageInfo] : Browser was closed
+2023-04-03 14:23:22   INFO [TestCases.TC1_HomePageInfo] : Browser was closed
+2023-04-03 14:25:07   INFO [TestCases.TC1_HomePageInfo] : Browser was closed
+2023-04-03 14:32:57   INFO [TestCases.TC1_HomePageInfo] : Browser was closed
+2023-04-03 14:42:51   INFO [TestCases.TC1_HomePageInfo] : Browser was closed
+2023-04-03 14:48:54   INFO [TestCases.TC1_HomePageInfo] : Browser was closed
+2023-04-03 14:52:15   INFO [TestCases.TC1_HomePageInfo] : -----homePageInfois stared ------
+2023-04-03 14:52:23   INFO [pages.HomePage] : Home Page was opened
+2023-04-03 14:52:24   INFO [TestCases.TC1_HomePageInfo] : Browser was closed
+2023-04-03 14:53:30   INFO [TestCases.TC1_HomePageInfo] : -----homePageInfois stared ------
+2023-04-03 14:53:40   INFO [pages.HomePage] : Home Page was opened
+2023-04-03 14:53:40   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:40   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:40   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:40   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:41   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:41   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:41   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:41   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:41   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:41   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:41   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:41   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:41   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:41   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:41   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:41   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:41   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:41   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:41   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:41   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:41   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:42   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:42   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:42   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:42   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:42   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:42   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:42   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:42   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:42   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:42   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:42   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:42   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:42   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:42   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:42   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:42   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:42   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:42   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:42   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:42   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:43   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:43   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:43   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:43   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:43   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:43   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:43   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:43   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:43   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:43   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:43   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:43   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:43   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:43   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:43   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:43   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:43   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:43   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:43   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:43   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:44   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:44   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:44   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:44   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:44   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:44   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:44   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:44   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:44   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:44   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:44   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:44   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:44   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:44   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:44   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:44   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:44   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:44   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:44   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:44   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:44   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:45   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:45   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:45   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:45   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:45   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:45   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:45   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:45   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:45   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:45   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:45   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:45   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:45   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:45   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:45   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:45   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:45   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:45   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:45   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:45   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:45   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:46   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:46   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:46   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:46   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:46   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:46   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:46   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:46   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:46   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:46   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:46   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:46   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:46   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:46   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:46   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:46   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:46   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:46   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:46   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:46   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:46   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:46   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:47   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:47   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:47   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:47   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:47   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:47   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:47   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:47   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:47   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:47   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:47   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:47   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:47   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:47   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:47   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:47   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:47   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:47   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:47   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:47   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:47   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:48   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:48   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:48   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:48   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:48   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:48   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:48   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:48   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:48   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:48   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:48   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:48   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:48   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:48   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:48   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:48   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:48   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:48   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:48   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:48   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:48   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:49   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:49   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:49   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:49   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:49   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:49   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:49   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:49   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:49   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:49   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:49   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:49   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:49   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:49   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:49   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:49   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:49   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:49   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:49   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:49   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:50   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:50   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:50   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:50   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:50   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:50   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:50   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:50   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:50   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:50   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:50   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:50   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:50   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:50   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:50   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:50   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:50   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:50   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:50   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:50   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:50   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:50   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:51   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:51   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:51   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:51   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:51   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:51   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:51   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:51   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:51   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:51   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:51   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:51   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:51   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:51   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:51   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:51   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:51   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:51   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:51   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:51   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:51   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:51   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:51   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:52   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:52   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:52   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:52   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:52   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:52   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:52   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:52   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:52   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:52   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:52   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:52   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:52   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:52   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:52   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:52   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:55:03   INFO [TestCases.TC1_HomePageInfo] : -----homePageInfois stared ------
+2023-04-03 14:55:11   INFO [pages.HomePage] : Home Page was opened
+2023-04-03 14:55:11   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:55:12   INFO [TestCases.TC1_HomePageInfo] : Browser was closed
+2023-04-03 14:55:50   INFO [TestCases.TC1_HomePageInfo] : -----homePageInfois stared ------
+2023-04-03 14:55:59   INFO [pages.HomePage] : Home Page was opened
+2023-04-03 14:56:09   INFO [pages.elements.HeaderElements] : Element is not displayed
+2023-04-03 14:56:10   INFO [TestCases.TC1_HomePageInfo] : Browser was closed
+2023-04-03 14:56:24   INFO [TestCases.TC1_HomePageInfo] : -----homePageInfois stared ------
+2023-04-03 14:56:33   INFO [pages.HomePage] : Home Page was opened
+2023-04-03 14:56:34   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:56:34   INFO [TestCases.TC1_HomePageInfo] : Browser was closed
+2023-04-03 14:56:55   INFO [TestCases.TC1_HomePageInfo] : -----homePageInfois stared ------
+2023-04-03 14:57:03   INFO [pages.HomePage] : Home Page was opened
+2023-04-03 14:57:13   INFO [pages.elements.HeaderElements] : Element is not displayed
+2023-04-03 14:57:14   INFO [TestCases.TC1_HomePageInfo] : Browser was closed
+2023-04-03 14:57:34   INFO [TestCases.TC1_HomePageInfo] : -----homePageInfois stared ------
+2023-04-03 14:59:44   INFO [TestCases.TC1_HomePageInfo] : -----homePageInfois stared ------
+2023-04-03 14:59:54   INFO [pages.HomePage] : Canada - English Element was clicked
+2023-04-03 14:59:54   INFO [pages.HomePage] : Home Page was opened
+2023-04-03 14:59:55   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:59:56   INFO [TestCases.TC1_HomePageInfo] : Browser was closed
+2023-04-03 15:02:15   INFO [TestCases.TC1_HomePageInfo] : -----homePageInfois stared ------
+2023-04-03 15:02:25   INFO [pages.HomePage] : Canada - English Element was clicked
+2023-04-03 15:02:25   INFO [pages.HomePage] : Home Page was opened
+2023-04-03 15:02:25   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 15:02:26   INFO [TestCases.TC1_HomePageInfo] : Browser was closed
+2023-04-03 15:18:33   INFO [TestCases.TC1_HomePageInfo] : -----homePageInfois stared ------
+2023-04-03 15:18:43   INFO [pages.HomePage] : Canada - English Element was clicked
+2023-04-03 15:18:43   INFO [pages.HomePage] : Home Page was opened
+2023-04-03 15:18:43   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 15:18:44   INFO [pages.elements.HeaderElements] : Tracking Element is displayed
+2023-04-03 15:18:44   INFO [TestCases.TC1_HomePageInfo] : Browser was closed
+2023-04-03 15:25:17   INFO [TestCases.TC1_HomePageInfo] : -----homePageInfois stared ------
+2023-04-03 15:25:27   INFO [pages.HomePage] : Canada - English Element was clicked
+2023-04-03 15:25:27   INFO [pages.HomePage] : Home Page was opened
+2023-04-03 15:25:28   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 15:25:28   INFO [pages.elements.HeaderElements] : Tracking Element is displayed
+2023-04-03 15:25:28   INFO [pages.elements.HeaderElements] : Business Solutions Element is displayed
+2023-04-03 15:25:28   INFO [pages.elements.HeaderElements] : Support Element is displayed
+2023-04-03 15:25:28   INFO [pages.elements.HeaderElements] : Canada - English Element is displayed
+2023-04-03 15:25:28   INFO [pages.elements.HeaderElements] : About UPS Open the link in a new window Element is displayed
+2023-04-03 15:25:28   INFO [pages.elements.HeaderElements] : Locations Element is displayed
+2023-04-03 15:25:29   INFO [TestCases.TC1_HomePageInfo] : Browser was closed
+2023-04-03 15:27:04   INFO [TestCases.TC1_HomePageInfo] : -----homePageInfois stared ------
+2023-04-03 15:27:14   INFO [pages.HomePage] : Canada - English Element was clicked
+2023-04-03 15:27:14   INFO [pages.HomePage] : Home Page was opened
+2023-04-03 15:27:15   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 15:27:15   INFO [pages.elements.HeaderElements] : Tracking Element is displayed
+2023-04-03 15:27:15   INFO [pages.elements.HeaderElements] : Business Solutions Element is displayed
+2023-04-03 15:27:15   INFO [pages.elements.HeaderElements] : Support Element is displayed
+2023-04-03 15:27:15   INFO [pages.elements.HeaderElements] : Canada - English Element is displayed
+2023-04-03 15:27:15   INFO [pages.elements.HeaderElements] : About UPS Open the link in a new window Element is displayed
+2023-04-03 15:27:15   INFO [pages.elements.HeaderElements] : Locations Element is displayed
+2023-04-03 15:27:15   INFO [pages.elements.HeaderElements] : All Header Elements are displayed
+2023-04-03 15:27:16   INFO [TestCases.TC1_HomePageInfo] : Browser was closed
+2023-05-03 16:13:59   INFO [TestCases.TC1_HomePageInfo] : -----homePageInfois stared ------
+2023-05-03 16:14:11   INFO [pages.HomePage] : Canada - English Element was clicked
+2023-05-03 16:14:11   INFO [pages.HomePage] : Home Page was opened
+2023-05-03 16:14:12   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-05-03 16:14:12   INFO [TestCases.TC1_HomePageInfo] : Browser was closed
+2023-05-03 16:15:10   INFO [TestCases.TC1_HomePageInfo] : -----homePageInfois stared ------
+2023-05-03 16:15:20   INFO [pages.HomePage] : Canada - English Element was clicked
+2023-05-03 16:15:20   INFO [pages.HomePage] : Home Page was opened
+2023-05-03 16:15:21   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-05-03 16:15:21   INFO [pages.elements.HeaderElements] : Tracking Element is displayed
+2023-05-03 16:15:22   INFO [pages.elements.HeaderElements] : Business Solutions Element is displayed
+2023-05-03 16:15:22   INFO [pages.elements.HeaderElements] : Support Element is displayed
+2023-05-03 16:15:22   INFO [pages.elements.HeaderElements] : Canada - English Element is displayed
+2023-05-03 16:15:22   INFO [pages.elements.HeaderElements] : About UPS Open the link in a new window Element is displayed
+2023-05-03 16:15:22   INFO [pages.elements.HeaderElements] : Locations Element is displayed
+2023-05-03 16:15:22   INFO [pages.elements.HeaderElements] : All Header Elements are displayed
+2023-05-03 16:15:23   INFO [TestCases.TC1_HomePageInfo] : Browser was closed
+2023-05-03 16:16:54   INFO [TestCases.TC1_HomePageInfo] : -----homePageInfois stared ------
+2023-05-03 16:17:06   INFO [pages.HomePage] : Canada - English Element was clicked
+2023-05-03 16:17:06   INFO [pages.HomePage] : Home Page was opened
+2023-05-03 16:17:07   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-05-03 16:17:07   INFO [pages.elements.HeaderElements] : Tracking Element is displayed
+2023-05-03 16:17:07   INFO [pages.elements.HeaderElements] : Business Solutions Element is displayed
+2023-05-03 16:17:07   INFO [pages.elements.HeaderElements] : Support Element is displayed
+2023-05-03 16:17:07   INFO [pages.elements.HeaderElements] : Canada - English Element is displayed
+2023-05-03 16:17:08   INFO [pages.elements.HeaderElements] : About UPS Open the link in a new window Element is displayed
+2023-05-03 16:17:08   INFO [pages.elements.HeaderElements] : Locations Element is displayed
+2023-05-03 16:17:08   INFO [pages.elements.HeaderElements] : All Header Elements are displayed
+2023-05-03 16:17:08   INFO [TestCases.TC1_HomePageInfo] : Browser was closed
+2023-05-03 16:31:33   INFO [TestCases.TC1_HomePageInfo] : -----homePageInfois stared ------
+2023-05-03 16:31:49   INFO [pages.HomePage] : Canada - English Element was clicked
+2023-05-03 16:31:49   INFO [pages.HomePage] : Home Page was opened
+2023-05-03 16:31:49   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-05-03 16:31:49   INFO [pages.elements.HeaderElements] : Tracking Element is displayed
+2023-05-03 16:31:49   INFO [pages.elements.HeaderElements] : Business Solutions Element is displayed
+2023-05-03 16:31:50   INFO [pages.elements.HeaderElements] : Support Element is displayed
+2023-05-03 16:31:50   INFO [pages.elements.HeaderElements] : Canada - English Element is displayed
+2023-05-03 16:31:50   INFO [pages.elements.HeaderElements] : About UPS Open the link in a new window Element is displayed
+2023-05-03 16:31:50   INFO [pages.elements.HeaderElements] : Locations Element is displayed
+2023-05-03 16:31:50   INFO [pages.elements.HeaderElements] : All Header Elements are displayed
+2023-05-03 16:31:50   INFO [pages.HomePage] :  Element is displayed
+2023-05-03 16:31:50   INFO [pages.HomePage] : Search Element is displayed
+2023-05-03 16:31:50   INFO [pages.HomePage] : Get Help Element is displayed
+2023-05-03 16:31:50   INFO [pages.HomePage] : Tracking Number Element is displayed
+2023-05-03 16:31:50   INFO [pages.HomePage] : Billing Element is displayed
+2023-05-03 16:31:50   INFO [pages.HomePage] : Track  Element is displayed
+2023-05-03 16:31:50   INFO [pages.HomePage] : Billing Element is displayed
+2023-05-03 16:31:50   INFO [pages.HomePage] : Ship Element is displayed
+2023-05-03 16:31:50   INFO [pages.HomePage] : Quote Element is displayed
+2023-05-03 16:31:51   INFO [pages.HomePage] : Track Element is displayed
+2023-05-03 16:31:51   INFO [pages.HomePage] :  Element is displayed
+2023-05-03 16:31:51   INFO [TestCases.TC1_HomePageInfo] : Browser was closed
+2023-05-03 16:35:06   INFO [TestCases.TC1_HomePageInfo] : -----homePageInfo test is stared ------
+2023-05-03 16:35:21   INFO [pages.HomePage] : Canada - English Element was clicked
+2023-05-03 16:35:21   INFO [pages.HomePage] : Home Page was opened
+2023-05-03 16:35:21   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-05-03 16:35:21   INFO [pages.elements.HeaderElements] : Tracking Element is displayed
+2023-05-03 16:35:21   INFO [pages.elements.HeaderElements] : Business Solutions Element is displayed
+2023-05-03 16:35:22   INFO [pages.elements.HeaderElements] : Support Element is displayed
+2023-05-03 16:35:22   INFO [pages.elements.HeaderElements] : Canada - English Element is displayed
+2023-05-03 16:35:22   INFO [pages.elements.HeaderElements] : About UPS Open the link in a new window Element is displayed
+2023-05-03 16:35:22   INFO [pages.elements.HeaderElements] : Locations Element is displayed
+2023-05-03 16:35:22   INFO [pages.elements.HeaderElements] : All Header Elements are displayed
+2023-05-03 16:35:22   INFO [pages.HomePage] :  Element is displayed
+2023-05-03 16:35:22   INFO [pages.HomePage] : Search Element is displayed
+2023-05-03 16:35:22   INFO [pages.HomePage] : Get Help Element is displayed
+2023-05-03 16:35:22   INFO [pages.HomePage] : Tracking Number Element is displayed
+2023-05-03 16:35:22   INFO [pages.HomePage] : Billing Element is displayed
+2023-05-03 16:35:22   INFO [pages.HomePage] : Track  Element is displayed
+2023-05-03 16:35:22   INFO [pages.HomePage] : Billing Element is displayed
+2023-05-03 16:35:22   INFO [pages.HomePage] : Ship Element is displayed
+2023-05-03 16:35:23   INFO [pages.HomePage] : Quote Element is displayed
+2023-05-03 16:35:23   INFO [pages.HomePage] : Track Element is displayed
+2023-05-03 16:35:23   INFO [pages.HomePage] :  Element is displayed
+2023-05-03 16:35:24   INFO [TestCases.TC1_HomePageInfo] : Browser was closed
+2023-05-03 17:46:15   INFO [TestCases.TC2_LocationPage] : -----locationPage test is stared ------
+2023-05-03 17:46:29   INFO [pages.HomePage] : Canada - English Element was clicked
+2023-05-03 17:46:29   INFO [pages.HomePage] : Home Page was opened
+2023-05-03 17:46:30   INFO [pages.HomePage] : Locations Element was clicked
+2023-05-03 17:46:40   INFO [pages.elements.HeaderElements] : Element is not displayed
+2023-05-03 17:46:42   INFO [TestCases.TC2_LocationPage] : Browser was closed
+2023-05-03 17:48:08   INFO [TestCases.TC2_LocationPage] : -----locationPage test is stared ------
+2023-05-03 17:48:20   INFO [pages.HomePage] : Canada - English Element was clicked
+2023-05-03 17:48:20   INFO [pages.HomePage] : Home Page was opened
+2023-05-03 17:48:25   INFO [pages.HomePage] : Locations Element was clicked
+2023-05-03 17:48:35   INFO [pages.elements.HeaderElements] : Element is not displayed
+2023-05-03 17:48:36   INFO [TestCases.TC2_LocationPage] : Browser was closed
+2023-05-03 17:54:00   INFO [TestCases.TC2_LocationPage] : -----locationPage test is stared ------
+2023-05-03 17:54:13   INFO [pages.HomePage] : Canada - English Element was clicked
+2023-05-03 17:54:13   INFO [pages.HomePage] : Home Page was opened
+2023-05-03 17:54:18   INFO [pages.HomePage] : Locations Element was clicked
+2023-05-03 17:54:28   INFO [pages.LocationPage] : Element is not displayed
+2023-05-03 17:54:28   INFO [pages.LocationPage] : Moncton was inputted into element 
+2023-05-03 17:54:29   INFO [TestCases.TC2_LocationPage] : Browser was closed
+2023-05-03 18:04:04   INFO [TestCases.TC2_LocationPage] : -----locationPage test is stared ------
+2023-05-03 18:04:16   INFO [pages.HomePage] : Canada - English Element was clicked
+2023-05-03 18:04:16   INFO [pages.HomePage] : Home Page was opened
+2023-05-03 18:04:22   INFO [pages.HomePage] : Locations Element was clicked
+2023-05-03 18:04:32   INFO [pages.LocationPage] : Element is not displayed
+2023-05-03 18:04:32   INFO [pages.LocationPage] : Moncton was inputted into element 
+2023-05-03 18:04:32   INFO [pages.LocationPage] : Find Element was clicked
+2023-05-03 18:04:37   INFO [pages.LocationPage] : Moncton, Westmorland, NB Element was clicked
+2023-05-03 18:04:37   INFO [pages.LocationPage] : Search Results Element is displayed
+2023-05-03 18:04:38   INFO [TestCases.TC2_LocationPage] : Browser was closed
+2023-05-03 18:31:10   INFO [TestCases.TC1_HomePageInfo] : -----homePageInfo test is stared ------
+2023-05-03 18:31:22   INFO [pages.HomePage] : Canada - English Element was clicked
+2023-05-03 18:31:22   INFO [pages.HomePage] : Home Page was opened
+2023-05-03 18:31:23   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-05-03 18:31:23   INFO [pages.elements.HeaderElements] : Tracking Element is displayed
+2023-05-03 18:31:23   INFO [pages.elements.HeaderElements] : Business Solutions Element is displayed
+2023-05-03 18:31:23   INFO [pages.elements.HeaderElements] : Support Element is displayed
+2023-05-03 18:31:23   INFO [pages.elements.HeaderElements] : Canada - English Element is displayed
+2023-05-03 18:31:23   INFO [pages.elements.HeaderElements] : About UPS Open the link in a new window Element is displayed
+2023-05-03 18:31:23   INFO [pages.elements.HeaderElements] : Locations Element is displayed
+2023-05-03 18:31:23   INFO [pages.elements.HeaderElements] : All Header Elements are displayed
+2023-05-03 18:31:24   INFO [pages.HomePage] :  Element is displayed
+2023-05-03 18:31:24   INFO [pages.HomePage] : Search Element is displayed
+2023-05-03 18:31:24   INFO [pages.HomePage] : Get Help Element is displayed
+2023-05-03 18:31:24   INFO [pages.HomePage] : Tracking Number Element is displayed
+2023-05-03 18:31:24   INFO [pages.HomePage] : Billing Element is displayed
+2023-05-03 18:31:24   INFO [pages.HomePage] : Track  Element is displayed
+2023-05-03 18:31:24   INFO [pages.HomePage] : Billing Element is displayed
+2023-05-03 18:31:24   INFO [pages.HomePage] : Ship Element is displayed
+2023-05-03 18:31:24   INFO [pages.HomePage] : Quote Element is displayed
+2023-05-03 18:31:24   INFO [pages.HomePage] : Track Element is displayed
+2023-05-03 18:31:24   INFO [pages.HomePage] :  Element is displayed
+2023-05-03 18:31:25   INFO [TestCases.TC1_HomePageInfo] : Browser was closed
+2023-05-03 20:52:35   INFO [TestCases.TC3_LogIn] : -----validLogin test is stared ------
+2023-05-03 20:52:49   INFO [pages.HomePage] : Canada - English Element was clicked
+2023-05-03 20:52:49   INFO [pages.HomePage] : Home Page was opened
+2023-05-03 20:53:05  ERROR [pages.HomePage] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: .//*[@data-utg-link-name='Login']]' (tried for 15 second(s) with 500 milliseconds interval)
+2023-05-03 20:53:06   INFO [TestCases.TC3_LogIn] : Browser was closed
+2023-05-03 20:54:14   INFO [TestCases.TC3_LogIn] : -----validLogin test is stared ------
+2023-05-03 20:54:28   INFO [pages.HomePage] : Canada - English Element was clicked
+2023-05-03 20:54:28   INFO [pages.HomePage] : Home Page was opened
+2023-05-03 20:54:49  ERROR [pages.HomePage] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: .//*[@data-utg-link-name='Login']' (tried for 15 second(s) with 500 milliseconds interval)
+2023-05-03 20:54:50   INFO [TestCases.TC3_LogIn] : Browser was closed
+2023-05-03 20:56:33   INFO [TestCases.TC3_LogIn] : -----validLogin test is stared ------
+2023-05-03 20:56:46   INFO [pages.HomePage] : Canada - English Element was clicked
+2023-05-03 20:56:46   INFO [pages.HomePage] : Home Page was opened
+2023-05-03 20:57:40   INFO [TestCases.TC3_LogIn] : -----validLogin test is stared ------
+2023-05-03 20:57:51   INFO [pages.HomePage] : Canada - English Element was clicked
+2023-05-03 20:57:51   INFO [pages.HomePage] : Home Page was opened
+2023-05-03 20:57:51   INFO [pages.HomePage] : Signup Element was clicked
+2023-05-03 20:57:53   INFO [pages.LogInPage] : liudmylamuntyan was inputted into element Email or Username
+2023-05-03 20:57:55   INFO [pages.LogInPage] : MylaPassword1! was inputted into element Password
+2023-05-03 20:57:56   INFO [pages.LogInPage] : Log In  Element was clicked
+2023-05-03 21:02:30   INFO [TestCases.TC3_LogIn] : -----validLogin test is stared ------
+2023-05-03 21:02:48   INFO [pages.HomePage] : Canada - English Element was clicked
+2023-05-03 21:02:48   INFO [pages.HomePage] : Home Page was opened
+2023-05-03 21:02:51   INFO [pages.HomePage] : Signup Element was clicked
+2023-05-03 21:02:51   INFO [pages.LogInPage] : liudmylamuntyan was inputted into element Email or Username
+2023-05-03 21:02:52   INFO [pages.LogInPage] : MylaPassword1! was inputted into element Password
+2023-05-03 21:02:53   INFO [pages.LogInPage] : Log In  Element was clicked
+2023-05-03 21:03:03   INFO [pages.HomePage] : Element is not displayed
+2023-05-03 21:03:04   INFO [TestCases.TC3_LogIn] : Browser was closed
+2023-05-03 21:03:51   INFO [TestCases.TC3_LogIn] : -----validLogin test is stared ------
+2023-05-03 21:04:04   INFO [pages.HomePage] : Canada - English Element was clicked
+2023-05-03 21:04:04   INFO [pages.HomePage] : Home Page was opened
+2023-05-03 21:04:09   INFO [pages.HomePage] : Signup Element was clicked
+2023-05-03 21:04:09   INFO [pages.LogInPage] : liudmylamuntyan was inputted into element Email or Username
+2023-05-03 21:13:22   INFO [TestCases.TC3_LogIn] : -----validLogin test is stared ------
+2023-05-03 21:13:38   INFO [pages.HomePage] : Canada - English Element was clicked
+2023-05-03 21:13:38   INFO [pages.HomePage] : Home Page was opened
+2023-05-03 21:13:40   INFO [pages.HomePage] : Signup Element was clicked
+2023-05-03 21:13:42   INFO [pages.LogInPage] : liudmylamuntyan was inputted into element Email or Username
+2023-05-03 21:13:42   INFO [pages.LogInPage] : MylaPassword1! was inputted into element Password
+2023-05-03 21:13:44   INFO [pages.LogInPage] : Log In  Element was clicked
+2023-05-03 21:13:54   INFO [pages.HomePage] : Element is not displayed
+2023-05-03 21:13:55   INFO [TestCases.TC3_LogIn] : Browser was closed
+2023-05-03 21:36:50   INFO [TestCases.TC4_Search] : -----searchTest test is stared ------
+2023-05-03 21:37:04   INFO [pages.HomePage] : Canada - English Element was clicked
+2023-05-03 21:37:04   INFO [pages.HomePage] : Home Page was opened
+2023-05-03 21:37:04   INFO [pages.HomePage] : Search Element was clicked
+2023-05-03 21:37:05   INFO [pages.HomePage] : claim was inputted into element Track a package or search
+2023-05-03 21:37:06   INFO [pages.HomePage] : Search Element was clicked
+2023-05-03 21:37:07   INFO [pages.SearchPage] : File a Claim | UPS - Canada Element is displayed
+2023-05-03 21:37:17   INFO [pages.SearchPage] : Element is not displayed
+2023-05-03 21:37:18   INFO [TestCases.TC4_Search] : Browser was closed
+2023-07-03 05:50:02   INFO [TestCases.TC3_LogIn] : -----validLogin test is stared ------
+2023-07-03 05:50:33   INFO [pages.HomePage] : Canada - English Element was clicked
+2023-07-03 05:50:33   INFO [pages.HomePage] : Home Page was opened
+2023-07-03 05:50:39   INFO [pages.HomePage] : Signup Element was clicked
+2023-07-03 05:50:40   INFO [pages.LogInPage] : liudmylamuntyan was inputted into element Email or Username
+2023-07-03 05:50:41   INFO [pages.LogInPage] : MylaPassword1! was inputted into element Password
+2023-07-03 05:50:42   INFO [pages.LogInPage] : Log In  Element was clicked
+2023-07-03 05:50:52   INFO [pages.HomePage] : Element is not displayed
+2023-07-03 05:50:53   INFO [TestCases.TC3_LogIn] : Browser was closed
+2023-07-03 05:53:43   INFO [TestCases.TC3_LogIn] : -----validLogin test is stared ------
+2023-07-03 05:54:13   INFO [pages.HomePage] : Canada - English Element was clicked
+2023-07-03 05:54:13   INFO [pages.HomePage] : Home Page was opened
+2023-07-03 05:54:54   INFO [pages.HomePage] : Signup Element was clicked
+2023-07-03 05:54:55   INFO [pages.LogInPage] : liudmylamuntyan was inputted into element Email or Username
+2023-07-03 05:54:56   INFO [pages.LogInPage] : MylaPassword1! was inputted into element Password
+2023-07-03 05:54:57   INFO [pages.LogInPage] : Log In  Element was clicked
+2023-07-03 05:56:41   INFO [pages.HomePage] : Element is not displayed
+2023-07-03 05:56:46   INFO [TestCases.TC3_LogIn] : -----validLogin test is stared ------
+2023-07-03 05:57:10   INFO [pages.HomePage] : Canada - English Element was clicked
+2023-07-03 05:57:10   INFO [pages.HomePage] : Home Page was opened
+2023-07-03 05:57:19   INFO [pages.HomePage] : Signup Element was clicked
+2023-07-03 05:57:20   INFO [pages.LogInPage] : liudmylamuntyan was inputted into element Email or Username
+2023-07-03 05:57:21   INFO [pages.LogInPage] : MylaPassword1! was inputted into element Password
+2023-07-03 05:58:02   INFO [pages.LogInPage] : Log In  Element was clicked
+2023-09-03 14:31:53   INFO [TestCases.TC3_LogIn] : -----validLogin test is stared ------
+2023-09-03 14:32:05   INFO [pages.HomePage] : Canada - English Element was clicked
+2023-09-03 14:32:05   INFO [pages.HomePage] : Home Page was opened
+2023-09-03 14:32:07   INFO [pages.HomePage] : Signup Element was clicked
+2023-09-03 14:32:10   INFO [pages.LogInPage] : liudmylamuntyan was inputted into element Email or Username
+2023-09-03 14:32:10   INFO [pages.LogInPage] : Myla was inputted into element Password
+2023-09-03 14:32:11   INFO [pages.LogInPage] : Log In  Element was clicked
+2023-09-03 14:32:21   INFO [pages.HomePage] : Element is not displayed
+2023-09-03 14:32:22   INFO [TestCases.TC3_LogIn] : Browser was closed
+2023-09-03 14:32:52   INFO [TestCases.TC3_LogIn] : -----validLogin test is stared ------
+2023-09-03 14:33:02   INFO [pages.HomePage] : Canada - English Element was clicked
+2023-09-03 14:33:02   INFO [pages.HomePage] : Home Page was opened
+2023-09-03 14:33:03   INFO [pages.HomePage] : Signup Element was clicked
+2023-09-03 14:33:06   INFO [pages.LogInPage] : liudmylamuntyan was inputted into element Email or Username
+2023-09-03 14:33:06   INFO [pages.LogInPage] : Myla was inputted into element Password
+2023-09-03 14:33:07   INFO [pages.LogInPage] : Log In  Element was clicked
+2023-09-03 14:33:08   INFO [TestCases.TC3_LogIn] : Browser was closed
+2023-09-03 14:33:17   INFO [TestCases.TC3_LogIn] : -----validLogin test is stared ------
+2023-09-03 14:33:26   INFO [pages.HomePage] : Canada - English Element was clicked
+2023-09-03 14:33:26   INFO [pages.HomePage] : Home Page was opened
+2023-09-03 14:46:42   INFO [TestCases.TC3_LogIn] : -----validLogin test is stared ------
+2023-09-03 14:46:50   INFO [pages.HomePage] : Canada - English Element was clicked
+2023-09-03 14:46:50   INFO [pages.HomePage] : Home Page was opened
+2023-09-03 14:46:54   INFO [pages.HomePage] : Signup Element was clicked
+2023-09-03 14:46:54   INFO [pages.LogInPage] : liudmylamuntyan was inputted into element Email or Username
+2023-09-03 14:46:54   INFO [pages.LogInPage] : Myla was inputted into element Password
+2023-09-03 14:46:55   INFO [pages.LogInPage] : Log In  Element was clicked
+2023-09-03 14:46:55   INFO [pages.HomePage] :  Element is displayed
+2023-09-03 14:46:55   INFO [TestCases.TC3_LogIn] : Browser was closed
+2023-09-03 15:09:54   INFO [TestCases.TC5_GetShippingHelpPageInfo] : -----ShippingHelpPage test is stared ------
+2023-09-03 15:10:05   INFO [pages.HomePage] : Canada - English Element was clicked
+2023-09-03 15:10:05   INFO [pages.HomePage] : Home Page was opened
+2023-09-03 15:10:07   INFO [pages.HomePage] : Get Help Element was clicked
+2023-09-03 15:10:07   INFO [pages.GetHelpPage] : Element is not displayed
+2023-09-03 15:10:08   INFO [TestCases.TC5_GetShippingHelpPageInfo] : Browser was closed
+2023-09-03 15:41:14   INFO [TestCases.TC5_GetShippingHelpPageInfo] : -----ShippingHelpPage test is stared ------
+2023-09-03 15:41:26   INFO [pages.HomePage] : Canada - English Element was clicked
+2023-09-03 15:41:26   INFO [pages.HomePage] : Home Page was opened
+2023-09-03 15:41:28   INFO [pages.HomePage] : Get Help Element was clicked
+2023-09-03 15:41:29   INFO [pages.GetHelpPage] : Log In To Change Element is displayed
+2023-09-03 15:41:29   INFO [pages.GetHelpPage] : Get Shipping Help Element is displayed
+2023-09-03 15:41:31   INFO [pages.GetHelpPage] : Get Shipping Help Element was clicked
+2023-09-03 15:41:31   INFO [pages.GetShippingHelpPage] : Visit Tracking Solutions Element is displayed
+2023-09-03 15:41:32   INFO [TestCases.TC5_GetShippingHelpPageInfo] : Browser was closed
+2023-16-05 16:49:40   INFO [TestCases.TC1_HomePageInfo] : -----homePageInfo test is stared ------
+2023-16-05 16:50:32   INFO [TestCases.TC1_HomePageInfo] : -----homePageInfo test is stared ------
+2023-16-05 16:50:51   INFO [TestCases.TC4_Search] : -----searchTest test is stared ------
