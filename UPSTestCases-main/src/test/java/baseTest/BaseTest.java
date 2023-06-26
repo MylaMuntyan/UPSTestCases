@@ -59,8 +59,10 @@ public class BaseTest {
     private WebDriver initDriver() {
         String browser = System.getProperty("browser");
         if ((browser == null) || "chrome".equalsIgnoreCase((browser))) {
-            WebDriverManager.chromedriver().setup();
-            webDriver = new ChromeDriver();
+          ChromeOptions ops = new ChromeOptions();
+          ops.addArguments("--remote-allow-origins=*");
+          WebDriverManager.chromedriver().setup();
+          webDriver = new ChromeDriver(ops);
         } else if ("firefox".equalsIgnoreCase(browser)) {
             WebDriverManager.firefoxdriver().setup();
             webDriver = new FirefoxDriver();
